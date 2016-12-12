@@ -1,0 +1,13 @@
+---
+platform: linux
+
+image_resource:
+  type: docker-image
+  source:
+    repository: cfgarden/garden-ci-ubuntu
+
+inputs:
+- name: kardigan
+
+run:
+  path: kardigan/script/test-on-linux
