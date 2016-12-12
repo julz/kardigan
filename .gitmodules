@@ -1,0 +1,78 @@
+[submodule "dep/runc"]
+	path = dep/runc
+	url = https://github.com/opencontainers/runc
+[submodule "vendor/code.cloudfoundry.org/garden"]
+	path = vendor/code.cloudfoundry.org/garden
+	url = https://github.com/cloudfoundry/garden
+[submodule "vendor/code.cloudfoundry.org/guardian"]
+	path = vendor/code.cloudfoundry.org/guardian
+	url = https://github.com/julz/guardian
+[submodule "vendor/code.cloudfoundry.org/lager"]
+	path = vendor/code.cloudfoundry.org/lager
+	url = https://github.com/cloudfoundry/lager
+[submodule "vendor/github.com/Sirupsen/logrus"]
+	path = vendor/github.com/Sirupsen/logrus
+	url = https://github.com/Sirupsen/logrus
+[submodule "vendor/github.com/cloudfoundry/gunk"]
+	path = vendor/github.com/cloudfoundry/gunk
+	url = https://github.com/cloudfoundry/gunk
+[submodule "vendor/github.com/eapache/go-resiliency"]
+	path = vendor/github.com/eapache/go-resiliency
+	url = https://github.com/eapache/go-resiliency
+[submodule "vendor/github.com/gogo/protobuf"]
+	path = vendor/github.com/gogo/protobuf
+	url = https://github.com/gogo/protobuf
+[submodule "vendor/github.com/golang/protobuf"]
+	path = vendor/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "vendor/github.com/kr/logfmt"]
+	path = vendor/github.com/kr/logfmt
+	url = https://github.com/kr/logfmt
+[submodule "vendor/github.com/mitchellh/copystructure"]
+	path = vendor/github.com/mitchellh/copystructure
+	url = https://github.com/mitchellh/copystructure
+[submodule "vendor/github.com/mitchellh/reflectwalk"]
+	path = vendor/github.com/mitchellh/reflectwalk
+	url = https://github.com/mitchellh/reflectwalk
+[submodule "vendor/github.com/nu7hatch/gouuid"]
+	path = vendor/github.com/nu7hatch/gouuid
+	url = https://github.com/nu7hatch/gouuid
+[submodule "vendor/github.com/onsi/ginkgo"]
+	path = vendor/github.com/onsi/ginkgo
+	url = https://github.com/onsi/ginkgo
+[submodule "vendor/github.com/onsi/gomega"]
+	path = vendor/github.com/onsi/gomega
+	url = https://github.com/onsi/gomega
+[submodule "vendor/github.com/opencontainers/runc"]
+	path = vendor/github.com/opencontainers/runc
+	url = https://github.com/opencontainers/runc
+[submodule "vendor/github.com/opencontainers/runtime-spec"]
+	path = vendor/github.com/opencontainers/runtime-spec
+	url = https://github.com/opencontainers/runtime-spec
+[submodule "vendor/github.com/pivotal-golang/clock"]
+	path = vendor/github.com/pivotal-golang/clock
+	url = https://github.com/pivotal-golang/clock
+[submodule "vendor/github.com/urfave/cli"]
+	path = vendor/github.com/urfave/cli
+	url = https://github.com/urfave/cli
+[submodule "vendor/golang.org/x/net"]
+	path = vendor/golang.org/x/net
+	url = https://go.googlesource.com/net
+[submodule "vendor/gopkg.in/yaml.v2"]
+	path = vendor/gopkg.in/yaml.v2
+	url = https://gopkg.in/yaml.v2
+[submodule "vendor/k8s.io/kubernetes"]
+	path = vendor/k8s.io/kubernetes
+	url = https://github.com/julz/kubernetes
+[submodule "vendor/github.com/tedsuo/ifrit"]
+	path = vendor/github.com/tedsuo/ifrit
+	url = https://github.com/tedsuo/ifrit
+[submodule "vendor/google.golang.org/genproto"]
+	path = vendor/google.golang.org/genproto
+	url = https://github.com/google/go-genproto
+[submodule "vendor/github.com/docker/go-units"]
+	path = vendor/github.com/docker/go-units
+	url = https://github.com/docker/go-units
+[submodule "vendor/github.com/kr/pty"]
+	path = vendor/github.com/kr/pty
+	url = https://github.com/kr/pty

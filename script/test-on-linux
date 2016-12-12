@@ -8,7 +8,7 @@ export PATH=$GOPATH/bin:$PATH
 mkdir -p src/github.com/julz
 mkdir -p src/github.com/opencontainers
 ln -s $PWD/kardigan $GOPATH/src/github.com/julz/kardigan
-ln -s $PWD/kardigan/vendor/github.com/opencontainers/runc $GOPATH/src/github.com/opencontainers/runc
+ln -s $PWD/kardigan/dep/runc $GOPATH/src/github.com/opencontainers/runc
 cd src/github.com/julz/kardigan
 
 go get github.com/onsi/ginkgo/ginkgo
